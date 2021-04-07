@@ -1,5 +1,4 @@
 # Build A Portfolio with Django | Learn Django for Beginner
-![Shop Logo](notes/Part 1.png)
 
 ## [Watch the Tutorial Now](https://www.youtube.com/watch?v=djNrEft8d_I&list=PLnH40zIDkjbSvyke2aopMo5EVbtbI73mH)
 
@@ -16,3 +15,5 @@ Steps:
 
 ### Finally runserver
 `python manage.py runserver`
+
+<img src="notes/MVC.png" width="500px">
